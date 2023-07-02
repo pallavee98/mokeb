@@ -1,0 +1,13 @@
+public class datatype {
+    public static void main(String[] args) {
+        byte b = 2;
+        short m = 3;
+        int n = 5;
+        char c = 'a';
+        String name = "pallavee";
+        double value = 4.5;
+        float value_2 = 3.4f;
+        
+        
+    }
+}
